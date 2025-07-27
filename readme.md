@@ -1,12 +1,12 @@
 
-# 💱 Conversor de Monedas en Java
+#  Conversor de Monedas en Java
 
 ¡Bienvenido/a a este emocionante proyecto de desarrollo en Java!  
 Este conversor de monedas es una aplicación práctica que consume una API de tasas de cambio para ayudarte a convertir entre diferentes divisas en tiempo real.
 
 ---
 
-## 🚀 Objetivo
+##  Objetivo
 
 Construir una aplicación funcional que:
 
@@ -17,7 +17,7 @@ Construir una aplicación funcional que:
 
 ---
 
-## 🛠️ Tecnologías Usadas
+##  Tecnologías Usadas
 
 - **Java** (versión 8 o superior)
 - **IDE recomendado**: IntelliJ IDEA / Eclipse / NetBeans
@@ -30,23 +30,9 @@ Construir una aplicación funcional que:
 
 ---
 
-## 📦 Estructura del Proyecto
 
-```
-ConversorMonedas/
-├── src/
-│   ├── Main.java
-│   ├── ApiService.java
-│   ├── CurrencyConverter.java
-│   └── CurrencyFilter.java
-├── .gitignore
-├── README.md
-└── pom.xml / build.gradle (si usas Maven o Gradle)
-```
 
----
-
-## 🧩 Pasos del Desarrollo
+##  Pasos del Desarrollo
 
 1. **Configuración del ambiente Java**  
    Instala JDK 8+ y un entorno de desarrollo como IntelliJ IDEA.
@@ -68,7 +54,7 @@ ConversorMonedas/
 
 ---
 
-## 💡 Ejemplo de Uso
+##  Ejemplo de Uso
 
 ```
 Ingrese la moneda de origen: USD
@@ -81,35 +67,14 @@ Resultado: 100 USD = 390000 COP
 
 ---
 
-## 🖼️ Captura de Pantalla (opcional)
 
-*Puedes agregar una imagen aquí cuando tengas tu interfaz o salida por consola.*
-
----
-
-## 📌 Funcionalidades Futuras
-
-- Interfaz gráfica con JavaFX o Swing.
-- Historial de conversiones.
-- Selección dinámica de monedas desde una lista desplegable.
-- Modo offline con tasas almacenadas localmente.
-
----
-
-## 🤝 Contribuciones
+##  Contribuciones
 
 ¡Las contribuciones son bienvenidas!  
 Puedes hacer un **fork**, crear una nueva rama, agregar tu funcionalidad y enviar un **pull request**.
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT.  
-Consulta el archivo [LICENSE](LICENSE) para más información.
-
----
-
-**Desarrollado con 💻 por [Tu Nombre]**
+**Desarrollado con 💻 por [Yudnaris]**
 
 > Proyecto educativo para aprender Java y consumo de APIs REST.
